@@ -1,0 +1,11 @@
+Laptop,899.99
+Wireless Mouse,24.50
+Mechanical Keyboard,45.00
+Monitor,189.99
+USB-C Cable,9.99
+
+Webcam,-15.00
+Desk Lamp,abc
+Headphones,59.99,extra
+,29.99
+Printer,129.00
